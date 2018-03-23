@@ -1,0 +1,15 @@
+body,html{background: #F1F3F6 !important;width: 100%;height: 100%;}
+.l-mp{margin:0 !important;padding: 0 !important;}
+a{text-decoration: none !important;outline: none !important;color: #49A0FF;}
+.icon {
+   width: 1em; height: 1em;
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+.l-navTop{margin-top: 60px;}
+.l-top{margin-top: 30px;}
+.l-stop{margin-top:10px !important;}
+.l-white{background: white;}
+.l-bottom{margin-bottom: 50px;}
+.l-overflow{overflow: hidden;}

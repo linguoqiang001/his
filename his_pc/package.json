@@ -1,0 +1,36 @@
+{
+  "name": "his",
+  "description": "A Vue.js project",
+  "version": "1.0.0",
+  "author": "lin",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "element-ui": "^2.0.11",
+    "vue": "^2.4.4",
+    "vue-resource": "^1.3.4",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "bootstrap": "^3.3.7",
+    "cross-env": "^5.0.5",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.4",
+    "ichart": "^0.1.15",
+    "jquery": "^3.2.1",
+    "style-loader": "^0.19.0",
+    "vue-loader": "^13.0.5",
+    "vue-resource": "^1.3.4",
+    "vue-template-compiler": "^2.4.4",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  }
+}

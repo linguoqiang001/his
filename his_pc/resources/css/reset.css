@@ -1,0 +1,28 @@
+ a{outline: none;text-decoration: none;}
+input.el-upload__input{display: none !important;}
+.addDoctorWrap .avatar-uploader .el-upload {
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+.addDoctorWrap  .avatar-uploader .el-upload:hover {
+    border-color: #409EFF;
+  }
+.addDoctorWrap  .avatar-uploader-icon {
+    font-size: 28px;
+    color: #8c939d;
+    width: 146px;
+    height: 146px;
+    line-height: 146px;
+    text-align: center;
+  }
+.addDoctorWrap  .avatar {
+    width: 178px;
+    height: 178px;
+    display: block;
+  }
+ .addDoctorWrap .el-input__inner{border:1px solid #C1C1C1;} 
+ .addDoctorWrap .el-textarea__inner{border:1px solid #C1C1C1;} 
+ .addDoctorWrap .el-icon-plus.avatar-uploader-icon{border:1px dashed #C1C1C1;}
