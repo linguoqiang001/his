@@ -10,7 +10,7 @@
 
 ## 项目已实现功能
 
-# 患者：
+### 患者：
 
 - 预约挂号
 - 查看医院门诊医生
@@ -20,7 +20,7 @@
 - 消费记录查询
 - 医生评价
 
-# 医院工作人员：
+### 医院工作人员：
 
 - 新增患者
 - 新增医生
@@ -30,7 +30,7 @@
 
 ## 部分截图
 
-# pc端:
+### pc端:
 
 <p>
 	<img width="49%" src="https://github.com/linguoqiang001/his/blob/master/his_pc/resources/images/sample/demo01.png">
@@ -39,7 +39,7 @@
 	<img width="49%" src="https://github.com/linguoqiang001/his/blob/master/his_pc/resources/images/sample/demo04.png">
 </p>
 
-#移动端：
+### 移动端：
 
 <p>
 	<img width="49%" src="https://github.com/linguoqiang001/his/blob/master/his_mobile/src/static/sample/demo01.jpg">
@@ -51,7 +51,7 @@
 
 ## 技术栈
 
-# pc端
+### pc端
 
 - vue-cli
 - vue2
@@ -62,7 +62,7 @@
 - jquery
 - element UI
 
-# 移动端
+### 移动端
 
 - vue-cli
 - vue2
@@ -72,7 +72,7 @@
 - muse-ui
 - Mint
 
-# 后端
+### 后端
 
 - springmvc
 - myBatis
@@ -80,7 +80,7 @@
 
 ## 运行这个项目
 
-# pc端和移动端：
+### pc端和移动端：
 
 ``` bash
 # install dependencies
@@ -93,7 +93,7 @@ npm run dev
 npm run build
 ```
 
-# 后端
+### 后端
 
 后台用tomcat搭建服务器，在此就不做介绍了。
 
