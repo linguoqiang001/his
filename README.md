@@ -97,21 +97,3 @@ npm run build
 
 后台用tomcat搭建服务器，在此就不做介绍了。
 
-## 登录（分别提供一组医生和患者登录的帐号）
-
-医生：
-- 帐号：1063
-- 密码：123456
-
-患者：
-- 帐号：2018
-- 密码：123456
-
-## 项目地址
-
-https://github.com/linguoqiang001/his.git
-
-## 项目部署到线上，地址
-
-http://www.zilii.top/medicalManage/
-
